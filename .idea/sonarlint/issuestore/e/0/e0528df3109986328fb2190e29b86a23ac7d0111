@@ -1,0 +1,11 @@
+
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "Suite" 3 times.(¡Éş¶8ºÑ¢÷1J$94e31382-479b-4054-b790-033769a94829
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ŸÃÕ¢÷1J$5135a5ff-25e0-4ff1-b4ae-7d65e0d43648
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(”Äğûÿÿÿÿ8ÂÑ¢÷1J$46638635-1c77-4be8-94f1-8e2b1f941c7e
+‚
+java:S1612":Replace this lambda with method reference 'Room::getName'.(ëé—Çûÿÿÿÿ8£ÃÕ¢÷1J$380f729a-5984-4ab6-aeb7-9c36c20e9ed4
+r	java:S106 "+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8µ‚Ò¢÷1J$750eb9ae-6a7a-4b1d-a102-a0144b2f6e78
+m	java:S106""+Replace this use of System.out by a logger.(’÷Ç˜8“şØ¢÷1J$c6cf4091-8c98-4073-bdda-0d17dc44be7d
+r	java:S106("+Replace this use of System.out by a logger.(Ó›¬œøÿÿÿÿ8—‘Ù¢÷1J$9de7db99-70c9-403f-bcd5-da00d428b515

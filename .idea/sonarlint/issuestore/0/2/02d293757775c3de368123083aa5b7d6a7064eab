@@ -1,0 +1,10 @@
+
+
+java:S1192	"FDefine a constant instead of duplicating this literal "Suite" 3 times.(ŠéÌ£úÿÿÿÿ8Ü®²¤÷1J$dbe7a39d-39d4-4e48-b7d3-208d9a64ef0d
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¢¥œ°øÿÿÿÿ8ç®²¤÷1J$2bd24f7e-4db6-42a5-84e0-3967d5171be8
+}	java:S125"<This block of commented-out lines of code should be removed.(á„¯g8ğ‚¿¤÷1J$7d376ec4-64ac-485c-8578-a1856970cc47
+}
+java:S1612 ":Replace this lambda with method reference 'Room::getName'.(¥Ø»8‰Ê²¤÷1J$ec0bd5a0-a58e-4b7e-bbe4-19742d2c5c2b
+m	java:S106 "+Replace this use of System.out by a logger.(¥Ø»8‹Ê²¤÷1J$a98ed730-ba3f-4e52-a5a0-824b69cf525a
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ì¶½¤÷1J$f8ddeae0-c344-4c19-a5a7-01a2727a55be

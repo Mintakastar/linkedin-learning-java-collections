@@ -1,0 +1,10 @@
+
+\
+java:S2259Q"AA "NullPointerException" could be thrown; "obj" is nullable here.(ùúŸºùÿÿÿÿ
+_
+java:S2583U"DChange this condition so that it does not always evaluate to "false"(¶¯óâüÿÿÿÿ
+5
+java:S2097O"Add a type test to this method.(ÜÑã
+E	java:S106Q"+Replace this use of System.out by a logger.(ùúŸºùÿÿÿÿ
+W
+java:S1126_"AReplace this if-then-else statement by a single return statement.(çö“Ù

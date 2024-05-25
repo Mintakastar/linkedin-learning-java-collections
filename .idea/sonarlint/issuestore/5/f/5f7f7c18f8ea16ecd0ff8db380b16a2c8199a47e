@@ -1,0 +1,26 @@
+
+®
+java:S1192:"kDefine a constant instead of duplicating this literal "------------------------------------------" 3 times.(ÆÀ³À8Š÷¼Þú1J$d68185ed-acec-46a2-9028-fd2197dfa2df
+›	java:S135O"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸8Œ÷¼Þú1J$a725b7a7-227f-4e1e-bf30-014062431ff5
+›	java:S135m"YReduce the total number of break and continue statements in this loop to use at most one.(•Ã‹Þ8´ò¿Þú1J$bfd67ec8-dd7a-4cf8-bc37-1f07c098d1e9
+m	java:S106"+Replace this use of System.out by a logger.(é¾ÿÌ8›÷¼Þú1J$f2aeef09-b7c2-4422-b717-f4baf138f898
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8›÷¼Þú1J$b8e9e0b7-81c3-4670-aa89-6c37dc8c0bac
+š
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¨¬“Öúÿÿÿÿ8œ÷¼Þú1J$3648877e-d640-41ab-9239-966885f9001a
+”
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ôÕÚ8ž÷¼Þú1J$9e8a83c7-3119-43a8-9f7d-482b7d511cd8
+„
+java:S3457("AFormat specifiers should be used instead of string concatenation.(”Žõž8 ÷¼Þú1J$64c30ca4-9c7d-4088-9028-72274fbea045
+m	java:S106("+Replace this use of System.out by a logger.(”Žõž8 ÷¼Þú1J$2d593ea9-1ae4-485e-98cc-b18e0ba7f531
+r	java:S106*"+Replace this use of System.out by a logger.(¶ØÀªøÿÿÿÿ8¡÷¼Þú1J$d567169a-63e1-41e2-b565-a10892698141
+ƒ	java:S125-"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8¢÷¼Þú1J$55a557e5-673b-4148-b909-4e07b53ac6ba
+~	java:S1252"<This block of commented-out lines of code should be removed.(—¤‰î8£÷¼Þú1J$5732896f-3b40-44f7-bcc4-85eb13fea07b
+r	java:S1068"+Replace this use of System.out by a logger.(ˆšÑÖüÿÿÿÿ8¤÷¼Þú1J$392b19a8-f6ec-4da5-b16b-9f6540b64870
+l	java:S1069"+Replace this use of System.out by a logger.(Óô‹8¤÷¼Þú1J$b86af520-1f2e-46fa-90e1-b5c47c57379a
+m	java:S106:"+Replace this use of System.out by a logger.(ÆÀ³À8¤÷¼Þú1J$0ffa8732-df2d-4246-ad6f-be043bb1766d
+m	java:S106<"+Replace this use of System.out by a logger.(³ÞõÛ8¥÷¼Þú1J$1e03dcf7-a88e-4ee3-b85e-c2e3d6492d99
+r	java:S106="+Replace this use of System.out by a logger.(˜¸î¡ýÿÿÿÿ8¥÷¼Þú1J$c0737196-985a-4d5e-ba76-ecfbb374d0cc
+m	java:S106G"+Replace this use of System.out by a logger.(ÆÀ³À8¥÷¼Þú1J$c9bbf10e-925b-48f6-960a-2b770d2ca069
+m	java:S106g"+Replace this use of System.out by a logger.(ÆÀ³À8¦÷¼Þú1J$c49e82d3-c018-4d35-8398-9780ba896087
+x
+java:S11447"0Remove this unused private "checkInMine" method.(ÌôÔ…ûÿÿÿÿ8ª÷¼Þú1J$c64ec75e-e118-45b8-8a47-e58399fa63c8
