@@ -1,2 +1,10 @@
 
-E	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ
+~
+java:S1854";Remove this useless assignment to local variable "entries".(¦ó²À8ûÅ„ü1J$d76e8be9-b75b-4ab2-9349-3bbf95c46272
+‡
+java:S4143"DVerify this is the key that was intended; it was already set before.(Ò÷ö¥8“ûÅ„ü1J$2324484a-18c2-464a-914c-2c4d4453609b
+Œ
+java:S4143"DVerify this is the key that was intended; it was already set before.(’‡ÊÈûÿÿÿÿ8“ûÅ„ü1J$5514489f-2c6d-4803-b51a-848ed7728dc2
+r	java:S106	"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8”ûÅ„ü1J$c1a1e383-3240-448b-9ff6-ad62f305b316
+o
+java:S1481",Remove this unused "entries" local variable.(¦ó²À8™ûÅ„ü1J$4852dcbf-c26b-41b9-98ac-2d912eeba139
